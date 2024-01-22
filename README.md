@@ -19,10 +19,10 @@ alt="Phases-of-the-Waterfall-Model-1024x585" width="600" height="500" style="bor
    - Define the features and functionalities needed for online consultation and medical subscription services.
     
 
-
      <p align="center">
   <kbd>
-    <img src="https://github.com/Tazfia67/hi/assets/157128451/348da116-cdb9-4fcc-a4e8-61d7ee2ab39f" alt="Requirements" width="600" height="500" style="border: 2px solid black; border-radius: 10px; right-margin: 50px;">
+    <img src="https://github.com/Tazfia67/E-Healthcare-Online-Consultation-and-Medical-Subscription/assets/157128451/a998cd26-a932-41a6-9853-8edad5679941)"
+ alt="Requirements" width="600" height="500" style="border: 2px solid black; border-radius: 10px; right-margin: 50px;">
   </kbd>
 </p>
 

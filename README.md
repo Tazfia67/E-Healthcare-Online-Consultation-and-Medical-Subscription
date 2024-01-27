@@ -1,3 +1,24 @@
+## Submitted By
+
+Tazfia Sultana 
+
+ID :2002071                                                                 
+
+L-3, S-I                                                                   
+
+Department of CSE
+
+
+   
+## Submitted TO 
+
+Pankaj Bhowmik 
+
+Lecturer
+
+Department of CSE, HSTU
+
+
 # E-Healthcare Online Consultation and Medical Subscription
 #### INTRODUCTION
 This report describes the Software Development Life Cycle (SDLC) of an innovative e-healthcare platform. Focused on online consultations and personalized medical subscriptions, the platform aims to revolutionize healthcare delivery, breaking geographical barriers and fostering proactive health management for users, healthcare professionals and organizations alike.

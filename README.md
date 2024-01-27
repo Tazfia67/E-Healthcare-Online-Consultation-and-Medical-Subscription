@@ -1,3 +1,6 @@
+##### Course Code : CSE 305
+
+
 # E-Healthcare Online Consultation and Medical Subscription
 #### INTRODUCTION
 This report describes the Software Development Life Cycle (SDLC) of an innovative e-healthcare platform. Focused on online consultations and personalized medical subscriptions, the platform aims to revolutionize healthcare delivery, breaking geographical barriers and fostering proactive health management for users, healthcare professionals and organizations alike.
